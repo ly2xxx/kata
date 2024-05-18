@@ -9,3 +9,6 @@ app/bin
 
 # Ignore IDE settings
 .vscode
+
+# Ignore output files
+*.txt
